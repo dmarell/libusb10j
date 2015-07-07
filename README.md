@@ -74,7 +74,7 @@ where ``045e`` and ``00cb`` represents vendor-id and product-id for the USB-devi
 <dependency>
   <groupId>se.marell</groupId>
   <artifactId>libusb10j</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
