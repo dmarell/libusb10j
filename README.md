@@ -70,14 +70,14 @@ where ``045e`` and ``00cb`` represents vendor-id and product-id for the USB-devi
 <repositories>
   <repository>
     <id>marell</id>
-    <url>http://marell.se/nexus/content/repositories/releases/</url>
+    <url>http://marell.se/artifactory/libs-release</url>
   </repository>
 </repositories>
 ...
 <dependency>
   <groupId>se.marell</groupId>
   <artifactId>libusb10j</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
 </dependency>
 ```
 
