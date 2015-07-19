@@ -8,7 +8,10 @@ It is a thin Java-layer on top of [libusb 1.0](http://www.libusb.org/wiki/libusb
 The library is packaged as an OSGi bundle.
 
 ### Release notes
-* Version 1.0.3 - 2015-07-07  Moved to Github
+* Version 1.0.4 - 2015-07-19
+  * Changed repo URL
+* Version 1.0.3 - 2015-07-07
+  * Moved to Github
 * Version 1.0.2 - 2014-02-08
   * Java 7
   * Changed pom versioning mechanism.
